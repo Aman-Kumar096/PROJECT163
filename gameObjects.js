@@ -38,3 +38,5 @@ AFRAME.registerComponent('wire-fence',{
         }
     }
 })
+
+// END LINE
